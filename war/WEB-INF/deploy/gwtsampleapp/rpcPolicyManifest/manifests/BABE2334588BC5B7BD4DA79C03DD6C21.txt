@@ -1,0 +1,2 @@
+serviceClass: com.knoldus.gwtsampleapp.client.BillService
+path: 797132E7336E5E5E5DEB060C656D69D3.gwt.rpc
